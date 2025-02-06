@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mi Canal RSS</title>
+        <link>http://www.ejemplo.com</link>
+        <description>Descripción de mi canal RSS</description>
+        
+        <item>
+            <title>Elon Musk Lanza Críticas a Congresista Demócrata</title>
+            <link>https://elpais.com/opinion/2024-12-22/elon-musk-intimida-al-congreso-de-ee-uu.html</link>
+            <description>Elon Musk, asesor especial del presidente Donald Trump y hombre más rico del mundo, lanzó críticas a Ro Khanna, un congresista demócrata de California, durante una audiencia de supervisión en la Casa Blanca. Musk acusó a Khanna de ser "un idiota" por criticar sus acciones contra agencias gubernamentales, lo que generó controversia.</description>
+            <pubDate>Thu, 06 Feb 2025 14:23:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Elon Musk Anuncia el Cierre de USAID</title>
+            <link>https://www.elmundo.es/internacional/2025/02/03/67a089bafdddffa87a8b457a.html</link>
+            <description>Elon Musk, conocido por su influencia en la política estadounidense, ha anunciado el cierre de USAID, la mayor agencia de cooperación al desarrollo del mundo[_{{{CITATION{{{_1{Noticias de Elon Musk - EL MUNDO](https://www.elmundo.es/e/el/elon-musk.html). Musk calificó el departamento como un "nido de víboras marxistas" y "un cesto de gusanos, sin ninguna manzana"[_{{{CITATION{{{_1{Noticias de Elon Musk - EL MUNDO](https://www.elmundo.es/e/el/elon-musk.html).</description>
+            <pubDate>Thu, 06 Feb 2025 14:23:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Elon Musk y la Crisis de la Inteligencia Artificial</title>
+            <link>http://www.ejemplo.com/elon-musk-ia.html</link>
+            <description>Elon Musk ha criticado un proyecto de inteligencia artificial anunciado por el presidente Trump, valorado en 500 millones de dólares[_{{{CITATION{{{_2{Elon Musk: noticias, imágenes y videos del magnate y dueño de Tesla, X ...](https://cnnespanol.cnn.com/economia/elon-musk/). Musk argumenta que el proyecto es innecesario y podría tener consecuencias negativas[_{{{CITATION{{{_2{Elon Musk: noticias, imágenes y videos del magnate y dueño de Tesla, X ...](https://cnnespanol.cnn.com/economia/elon-musk/).</description>
+            <pubDate>Thu, 06 Feb 2025 14:23:00 +0100</pubDate>
+            </item>
+    </channel>
+</rss>
